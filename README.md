@@ -1,7 +1,7 @@
 [Click here to view the design on Canva](https://www.canva.com/design/DAGU9uL4TJg/3nWJyVYxNfEpCFND4Zqbqg/view?utm_content=DAGU9uL4TJg&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
 
 
-![logo](https://www.canva.com/design/DAGU9uL4TJg/3nWJyVYxNfEpCFND4Zqbqg/view)
+![logo](https://github.com/Faizan1568/Faizan1568/blob/main/careerbg.png)
 
 
 <h1 align="center">Hi 👋, I'm Faizan Khan</h1>
